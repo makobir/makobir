@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Professional Web Application Developer</h1>
-<h3 align="center">An Experienced more than 6+ Years</h3>
+<h3 align="center">Experienced more than 6+ Years</h3>
 <a>
    <h2>Stats</h2>
 </a>
 <div>
    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=makobir&theme=light&custom_title=GitHub+Stats&hide_border=true"/>
-   <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=makobir&theme=onedark&hide_border=true"/>
+   <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=makobir&theme=light&hide_border=true"/>
    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=makobir&row=1&theme=onedark&no-frame=true"/>
 </div>
 <h3 align="left">Languages and Tools:</h3>
