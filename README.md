@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:makobir.dev@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-makobir.dev@gmail.com-D14836?logo=gmail&style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-makobirbd@gmail.com-D14836?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
 </p>
 
