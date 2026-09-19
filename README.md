@@ -7,7 +7,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=makobir&show_icons=true&count_private=true&include_all_commits=true&theme=light&custom_title=GitHub+Stats&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=makobir&theme=light&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=makobir&theme=light&hide_border=true"  />
 </p>
 
 
