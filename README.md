@@ -6,13 +6,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=makobir&count_private=true&include_all_commits=true&theme=light&custom_title=GitHub+Stats&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=makobir&theme=light&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=makobir&show_icons=true&count_private=true&include_all_commits=true&theme=light&custom_title=GitHub+Stats&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=makobir&theme=light&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=makobir&row=1&theme=onedark&no-frame=true" alt="Trophy" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=makobir&row=1&column=7&theme=onedark&no-frame=true&no-bg=true" alt="Trophy" />
 </p>
+
+> **Note:** If stats/trophy don't show, it's usually because the public Vercel instance is rate-limited. See the "Deploy your own" section below.
 
 ---
 
@@ -30,13 +32,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/>
   </a>
 
   <!-- Backend -->
@@ -44,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
@@ -97,7 +99,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/>
   </a>
 </p>
 
