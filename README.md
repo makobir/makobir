@@ -10,11 +10,9 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=makobir&theme=light&hide_border=true" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=makobir&row=1&column=7&theme=onedark&no-frame=true&no-bg=true" alt="Trophy" />
-</p>
 
-> **Note:** If stats/trophy don't show, it's usually because the public Vercel instance is rate-limited. See the "Deploy your own" section below.
+
+
 
 ---
 
