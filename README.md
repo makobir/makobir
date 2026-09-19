@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Professional Web Application Developer</h1>
-<h3 align="center">Experienced · 15+ Years</h3>
+<h3 align="center">Experienced · 8+ Years</h3>
 
 ---
 
@@ -7,11 +7,14 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=makobir&show_icons=true&count_private=true&include_all_commits=true&theme=light&custom_title=GitHub+Stats&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=makobir&theme=light&hide_border=true" alt="Streak Stats" />
 </p>
 
+<p align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=makobir&row=1&column=7&theme=onedark&no-frame=true&no-bg=true" alt="Trophy" />
+</p>
 
-
-
+> **Note:** If stats/trophy don't show, it's usually because the public Vercel instance is rate-limited. See the "Deploy your own" section below.
 
 ---
 
