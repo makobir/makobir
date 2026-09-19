@@ -5,7 +5,7 @@
   <a href="https://github.com/makobir" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-@makobir-181717?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/makobir" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:makobir.dev@gmail.com" target="_blank" rel="noreferrer">
